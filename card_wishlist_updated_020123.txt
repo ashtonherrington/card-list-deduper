@@ -31,7 +31,7 @@ Wayfaring temple 2x
 Pennon blade
 Blood artist 2x
 Adanto, the first fort
-Castle Ardenvale 2x
+(X) Castle Ardenvale 2x
 Westfall abbey 2x
 Thalisse, reverent medium
 Rowan kenrith
@@ -39,7 +39,7 @@ Will kenrith
 Unbound flourishing
 Isshin, two heavens as one
 Strionic resonator 3x
-Oath of Teferi 2x
+(X) Oath of Teferi 2x
 The seedcore 2x
 Urabrask’s forge
 Brawlers plate 2x
@@ -53,7 +53,7 @@ Hangerback walker
 Jace, telepath unbound
 kothoped, soul hoarder
 Kytheon, hero of akros 
-Languish 2x
+(X) Languish 2x
 Liliana, defiant Necromancer
 Mage-ring network 2x
 Mage-ring responder
@@ -63,290 +63,6 @@ Patron of the valiant
 Seismic elemental 2x
 Thunderclap wyvern
 Touch of moonglove 2x
-
-
-Commander 2018
-Heavenly blademaster
-Loyal unicorn 3x
-Aminatou’s augury 3x
-Echo storm 3x
-Loyal drake 4x
-Veldakin humiliator
-Loyal subordinate
-Fury storm 3x
-Nesting dragon
-Genesis storm 3x
-Loyal guardian 4x
-Ravenous slime
-Arixmethes, Slumbering Isle
-Estrid, the Masked
-Thantis, the warweaver
-Varina, lich queen
-Ancient stone idol
-Geode golem
-Forge of heroes 4x
-Unquestioned authority
-Dream cache 4x
-Etherium sculptor
-Inkwell leviathan
-Sigiled starfish 4x
-Stitch together 4x
-Bear umbra 4x
-Centaur vinecrasher
-Eidolon of blossoms
-Explosive vegetation 4x
-Scute mob 4x
-Charnelhoard wurm
-Daxos of meletis
-Esper charm 4x
-Grisly salvage 4x
-Zendikar incarnate
-Yennett, cryptic sovereign
-
-
-2019 Commander
-Mandate of peace 4x
-Song of the worldsoul 3x
-Mass diminish
-Bone miser
-Gift of doom 4x
-Backdraft hellkite
-Ignite the future 4x
-Road to return 4x
-Chainer, nightmare adept3x
-Ghired, conclave exile
-Marisi, breaker of the coil
-Sevinne, the chronoclasm
-Volrath, the shapestealer
-Empowered autogenerator 4x
-Idol of oblivion
-Zetalpa, primal dawn 2x
-Clever impersonator 3x
-Fervent denial 2x
-Jace’s sanctum 4x
-Tezzerit’s gamble 
-Overseer of the damned
-Dragonmaster outcast
-faithless looting 6x
-Rolling temblor 4x
-Druid’s deliverance 3x
-Great oak guardian 
-Seedborn muse 4x
-Biomass mutation 4x
-Ral Zerek
-Sultai charm 3x
-Trostani, Selesnya’s voice
-Urban evolution 4x
-Vraska the unseen
-Grimoire of the dead 3x
-Key to the city 4x
-Drownyard temple
-Shrine of the forsaken gods 
-
-
-March of the machine: the aftermath
-Deification 2x
-Harnesses snubhorn
-Metropolis reformer 2x
-Spark rupture 3x
-Tazri, stalwart survivor
-Filter out 2x
-Tolarian contempt 2x
-Training grounds
-Ayara’s oathsworn
-Death-rattle oni
-Markov baron
-Urborg scavengers
-Arni metalbrow 2x
-Reckless handling 2x
-Animist’s might 2x
-Leyline immersion 2x
-Nissa, resurgent animist
-Open the way 4x
-Tranquil frillback 2x
-Undercity upheaval
-Calix, guided by fate
-Cosmic rebirth 4x
-Danitha, new belania’s light
-Feast of victorious dead 2x
-Gold-forged thopteryx 2x
-The kenriths’ Royal funeral 2x
-Kiora, sovereign of the deep
-Nahiri, forged in fury
-Nahiri’s resolve
-Jolrael, voice of zhalfir 
-Narset, enlightened exile
-Niv-Mizzit, supreme
-Ob nixilis, captive kingpin
-Rebuild the city 2x
-Rocco, street chef 2x
-Samut, vizier of naktamun
-Sarkhan, soul aflame
-Sigarda, font of blessings
-Tyvar the bellicose
-Karn, legacy reforged
-Drannith ruins 2x
-Nashi, moon’s legacy
-Plargg and nassari 
-Blot out 2x
-
-
-March of the Machine
-Invasion of Ravnica 2x
-Archangel Elsbeth
-Angelic intervention 2x
-Cut short 4x
-Elesh norn
-Elsbeth’s smite 4x
-Enduring bondwarden 2x
-Heliod, the radiant dawn
-Invasion of Belenon 2x
-Invasion of dominaria 2x
-Invasion of Gobakhan 2x
-Invasion of Theros 2x
-kor halberd 2x
-Monastery mentor 2x
-norn’s inquisitor 
-Phyrexian awakening
-Progenitor exarch 
-Realmbreaker’s grasp 3x
-Scrollshift 2x
-Seraph of new Phyrexia
-Sun-blessed guardian
-Sunder the gateway 2x
-Sunfall 2x
-Tarkir duneshaper
-Zhalfirin lancer
-Chrome host seedshark
-Complete the circuit 2x
-Corruption of towashi 
-Faerie mastermind
-Furtive analyst
-Invasion of arcavios 2x
-Invasion of kamigawa 2x
-Invasion of Segovia 2x
-Invasion of vryn 2x
-Jin-Gitaxias
-Moment of truth 2x
-Protocol knight
-Rona, herald of invasion
-Saiba cryptomancer 2x
-See double
-Skyclave aerialist
-Stasis field 4x
-Tidal terror
-Wicked slumber 4x
-Xerex strobe-knight 2x
-Aetherblade agent
-Archpriest of shadows 2x
-Ayara, widow of the realm
-Breach the multiverse 2x
-Deadly derision 2x
-Final flourish 2x
-Gift of compleation
-Grafted butcher
-Hoarding broodlord
-Invasion of eldaine 2x
-Invasion of Fiona 2x
-Invasion of innistrad 2x
-Invasion of ulgrotha 2x
-Mirrodin avenged 3x
-Nezumi freewheeler
-Pile on 2x
-Render inert 3z
-Sheoldred
-Unseal the necropolis 2x
-Beamtown beatstick 2x
-Chandra, hope’s beacon
-City on fire 2x
-Etali, primal conqueror
-Furnace reins 2x
-Into the fire 3x
-Invasion of kaldheim 2x
-Invasion of karsus 2x
-Invasion of mercadia 2x
-Invasion of regatha 2x
-Invasion of tarkir 2x
-Khenra spellspear
-Lithomantic barrage 2x
-Nahiri’s warcrafting 2x
-Ral’s reinforcements
-Rampaging raptor 2x
-Shattering the source 2x
-Urabrask
-Volcanic spite 3x
-Voldaren thrillseeker 2x
-Ancient imperiosaur
-Atraxa’s fall 4x
-Converter beast
-Copper host crusher
-Cosmic hunger 4x
-Deeproot wayfinder
-Fertilid’s favor 2x
-Glistening dawn
-Invasion of ikoria 2x
-Invasion of ixalan 2x
-Invasion of muraganda 2x
-Invasion of shandalar 2x
-Invasion of Zendikar 2x
-Kami of whispered hopes 2x
-Ozolith, the shattered spire 2x
-Placid rottentail 2x
-Polukranos reborn 2x
-Ravenous sailback
-Storm the seedcore 2x
-Tandem takedown 4x
-Tangled skyline
-Tribute to the world tree
-Vorinclex
-Wrenn and realmbreaker
-Borborygmos and fblthp
-Botanical brawler 2x
-Djeru and hazoret
-Drana and linvala
-Elvish vatkeeper
-Errant and giada
-Ghatla and mavren
-Glissa, herald of predation
-Halo forager 2x
-Inga and Esika
-Invasion of alara 2x
-Invasion of amonkhet 2x
-Invasion of azgol 2x
-Invasion of Ergamon 2x
-Invasion of kaladash 2xt
-Invasion of Kylem 2x
-Invasion of Lorwyn 2x
-Invasion of moag 2x
-Invasion of new capenna 2x
-Invasion of new phyrexia 2x
-Invasion of tolvada 2x
-Invasion of xerex 2x
-Korxa and kuronos 
-Marshal of zhalfir 
-Omnath, locus of all
-Quintorius, loremaster
-Rampaging geoderm
-Rankle and torbran 
-Sculpted perfection
-Stormclaw rager
-Thalia and gitrog monster
-Yargle and multani 
-Zimone and Dina
-Zurgo and ojutai
-Phyrexian archivist
-Realmbreaker, The invasion tree 2x
-Sword of once and future
-Bloodfell caves 3x
-Blossoming sands 3x
-Dismal backwater 3x
-Jungle hollow 3x
-Rugged highlands 3x
-Scoured barrens 3x
-Swiftwater cliffs 3x
-Thornwood falls 3x
-Tranquil cove 3x
-Wind-scarred crag 3x
 
 
 The brothers’ war
@@ -521,7 +237,7 @@ Vivien on the hunt
 Workshop warchief
 Aven heartstabber 2x
 Cabaretti ascendancy 2x
-Cabaretti Charm
+(X) Cabaretti Charm
 Cormela, glamor thief
 Falco spara, pactweaver
 Hostile takeover 3x
@@ -534,7 +250,7 @@ Ob nixilis, the adversary
 Ognis, the dragon’s lash
 Queza, augur of agonies
 Riveteers ascendency 2x
-Riveteers Charm
+(X) Riveteers Charm
 Soul of emancipation
 Stimulus package
 Toluz, clever conductor
@@ -810,7 +526,7 @@ Hand of vecna
 Temple of the dragon queen
 
 
-Strixhaven
+(X) Strixhaven
 Dueling coach 2x
 Baleful mastery 3x
 Go blank 2x
@@ -844,7 +560,7 @@ Dina, soul steeper
 Double major 2x
 Dramatic finale
 Expressive iteration 2x
-Fracture 2x
+(X) Fracture 2x
 Galazeth prismari
 Harness infinity
 Kasmina, enigma sage
@@ -1121,7 +837,7 @@ Swallow whole 3x
 Vulpikeet 2x
 Will of the all-Hunter 2x
 Aegis turtle 3x
-Archipelagore
+(X) Archipelagore
 Avian oddity 2x
 Capture sphere 3x
 Dreamtail heron 2x
@@ -1130,7 +846,7 @@ Frostveil ambush 2x
 Gust of wind 3x
 Mystic subdual 4x
 Mythos of illuna 2x
-Neutralize 2x
+(X) Neutralize 2x
 Ominous seas 2x
 Pollywog symbiote
 Pouncing shoreshark 2x
@@ -1186,7 +902,7 @@ Migration greathorn 2x
 Monstrous step 2x
 Mythos of brokkos 2x
 Vivien, monster’s advocate
-Titanoth Rex
+(X) Titanoth Rex
 Back for more 2x
 Boneyard lurker 3x
 Brokkos, apex of forever
@@ -1462,7 +1178,7 @@ Pitiless pontiff
 Rakdos, the showstopper
 Rhythm of the wild 2x
 Seraph of the scales
-Sharktocrab
+(X) Sharktocrab
 Sunder shaman
 Syndicate Guildmage 2x
 Theater of horrors
@@ -1517,7 +1233,7 @@ Might of the masses 2x
 Pelt collector 3x
 Aurelia, exemplar of Justice
 Beamsplitter mage 3x
-Camaraderie
+(X) Camaraderie
 Chance for glory
 Conclave cavalier 2x
 Conclave Guildmage 2x
@@ -1959,7 +1675,7 @@ Tezzeret’s silumacrum
 Kaladash
 Angel of invention 2x
 Captured by the consulate 2x
-Fumigate
+(X) Fumigate
 Master tinketeer
 Servo exhibition 2x
 Toolcraft exemplar 2x
@@ -2132,11 +1848,11 @@ Oath to the gatewatch
 Call the gatewatch 6x
 Immolating glare 3x
 Iona’s blessing 3x
-Oath of Gideon 2x
+(X) Oath of Gideon 2x
 Stone haven outfitter
 Slip through space 3x
 Gift of tusks 2x
-Oath of Jace 2x
+(X) Oath of Jace 2x
 Overwhelming denial 2x
 Sphinx of the final word
 Unity of purpose 2x
@@ -2440,7 +2156,7 @@ Noble quarry 2x
 Scourge of skola vale
 Spyreaping 2x
 Unravel the Aether 3x
-Chromanticore
+(X) Chromanticore
 Ephara, god of the polis
 Karametria, god of harvests
 Kiora, the crashing wave
@@ -2774,7 +2490,7 @@ Glissa, the traitor
 Brass squire
 Darksteel plate
 Decimator web
-Mirrorworks
+(X) Mirrorworks
 Mortapod 2x
 Myr turbine
 Myr welder
@@ -2789,7 +2505,7 @@ Titan forge 2x
 
 Scars of Mirrodin
 Indomitable archangel 2x
-Myrsmith
+(X) Myrsmith
 True conviction
 Vigil for the lost 2x
 Grand architect
@@ -2811,7 +2527,7 @@ Embersmith 2x
 Koth the hammer
 Kulthoda rebirth 2x
 Tunnel ingus 2x
-Asceticism 4x
+(X) Asceticism 3x
 Blight mamba
 Carrion call
 Engulfing slagwurm
@@ -3009,7 +2725,7 @@ Sacellum Archers 3x
 Soul’s majesty 2x
 Thornling 3x
 Apocalypse hydra
-Conflux 6x
+(X) Conflux 6x
 Fusion elemental 2x
 Hellkite hatchling
 Jhessian Balmgiver 2x
@@ -3078,13 +2794,13 @@ Sedris, the traitor king
 Sigil blessing 3x
 Stoic Angel
 Swerve 6x
-Relic of Progenitus
+(X) Relic of Progenitus
 Tidehollow strix 2x
 Titanic ultimatum 2x
 Clarion ultimatum 2x
 Brilliant ultimatum 2x
 Lich’s mirror 2x
-Bant Panorama 2x
+(X) Bant Panorama 2x
 Grixis panorama 4x
 Esper panorama 4x
 Jund panorama 4x
@@ -3464,7 +3180,7 @@ Watcher sliver
 Temporal isolation 6x
 Careful consideration 4x
 Deep-sea kraken
-Ixidron
+(X) Ixidron
 Looter Il-kor 2x
 Moonlace 2x
 Mystical teachings 4x
@@ -3699,12 +3415,12 @@ Tolsimir wolfblood
 Boros Guildmage 2x
 Gaze of the gorgon 6x
 Golgari guildmage
-Master Warcraft
+(X) Master Warcraft
 Privileged Position 4x
 Bloodletter quill
 Pariah's Shield 4x
 Plague boiler
-Sunhome, Fortress of the Legion 2x
+(X) Sunhome, Fortress of the Legion 2x
 Vitu-ghazi, the city tree
 
 
@@ -3720,7 +3436,7 @@ Gaze of Adamaro 4x
 Inner fire 6x
 Spiraling embers 6x
 Undying flames 2x
-Arashi, the Sky Asunder
+(X) Arashi, the Sky Asunder
 Dense canopy 4x
 Molting skin 4x
 Reki, the History of Kamigawa 2x
@@ -3791,7 +3507,7 @@ Time of need 4x
 Hankyu 2x
 Journeyer’s kite 2x
 konda’s banner 4x
-Tenza, Godo's Maul
+(X) Tenza, Godo's Maul
 
 
 Mirrodin
@@ -4139,7 +3855,7 @@ Tarnished citadel
 
 
 Torment
-Morningtide 2x
+(X) Morningtide 2x
 Vengeful dreams 2x
 Ghostly wings 4x
 Turbulent dreams 3x
@@ -4322,7 +4038,7 @@ Dragon arch 2x
 
 Mercadian masques
 Devout witness 3x
-Disenchant
+(X) Disenchant
 Fountain watch 4x
 Honor the fallen 2x
 Moonlit wake 2x
@@ -4646,7 +4362,7 @@ Pit spawn
 Spike cannibal 
 Flowstone flood
 Ogre shaman 2x
-Onslaught 4x
+(X) Onslaught 4x
 Price of progress 4x
 Ravenous baboons 
 Seismic assault
@@ -4770,7 +4486,7 @@ Corrosion 2x
 Matopi golem
 
 
-Weatherlight
+(X) Weatherlight
 Abeyance 2x
 Inner sanctum 
 Peacekeeper 2x
@@ -4963,7 +4679,7 @@ Garruk’s uprising 2x
 Heroic intervention 2x
 Invigorating surge 2x
 Jolrael, mwonvuli recluse
-Pridemalkin 2x
+(X) Pridemalkin 2x
 Primal might 2x
 Sporeweb weaver
 Wildwood scourge
@@ -5175,7 +4891,7 @@ Jace, the living guildpact
 Jalira, master polymorphist 
 Mercurial pretender 2x
 Polymorphist’s jest 2x
-Quickling
+(X) Quickling
 Soul of ravnica 
 Blood host
 Caustic tar
@@ -5187,7 +4903,7 @@ Indulgent tormentor
 Necrobite 2x
 Necromancer’s stockpile
 Ob nixilis, unshackled
-Soul of Innistrad
+(X) Soul of Innistrad
 Stab wound 2x
 Wall of limbs 2x
 Waste not
