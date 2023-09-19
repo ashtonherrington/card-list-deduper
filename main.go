@@ -12,7 +12,7 @@ import (
 
 func main() {
 	// open CSV file
-	fd, error := os.Open("moxfield_haves_2023-05-11-0533Z.csv")
+	fd, error := os.Open("moxfield_haves_2023-09-19-0119Z.csv")
 	if error != nil {
 		fmt.Println(error)
 	}
@@ -40,7 +40,7 @@ func main() {
 
 	}
 
-	file, err := os.Open("card_wishlist_updated_020123.txt")
+	file, err := os.Open("card_wishlist_updated_091823.txt")
 	if err != nil {
 		fmt.Println(err)
 	}
